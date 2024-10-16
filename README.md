@@ -1,4 +1,4 @@
-## Projeto de mock da QAZANDO
+## Projeto de mock
 
 Esse projeto temos como exemplo uma api de carros.
 
